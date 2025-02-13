@@ -1,4 +1,5 @@
 RAG-Based Conversational AI with Memory using Streamlit & LangChain
+
 <br>
 📌 Overview
 This project implements a Retrieval-Augmented Generation (RAG) Conversational AI system using LangChain, Streamlit, and Groq API (LLM). It enhances chatbot capabilities by retrieving relevant documents and maintaining contextual memory across interactions.
@@ -27,3 +28,6 @@ Frontend: Streamlit
 Vector Store: FAISS / ChromaDB (for document retrieval)
 <br>
 Memory Management: BaseChatMessageHistory
+<br>
+
+
