@@ -35,12 +35,17 @@ Vector Store: FAISS / ChromaDB (for document retrieval)
 Memory Management: BaseChatMessageHistory
 <br>
 
-Create a new environment of you PC my downloading the above git hub file
+Create a new environment of your PC after downloading the above file
 <br>
+
 terminal -> cmd -> conda create -p environment_name -y  -> conda activate environment_example/
 
 <br>
 
 download the requirements.txt -> pip install -r requirements.txt
+
+<br>
+
+streamlit run app.py
 
 
