@@ -8,14 +8,19 @@ This project implements a Retrieval-Augmented Generation (RAG) Conversational AI
 
 🔹 Features
 <br>
+
 ✅ Conversational Memory – Tracks user history using RunnableWithMessageHistory.
 <br>
+
 ✅ RAG-based Retrieval – Uses VectorStoreRetriever to fetch relevant documents.
 <br>
+
 ✅ History-Aware Querying – Enhances retrieval via create_history_aware_retriever().
 <br>
+
 ✅ Streamlit UI – Interactive chatbot interface with session-based memory.
 <br>
+
 ✅ Groq API for LLM – Utilizes Groq’s API to generate responses.
 <br>
 
