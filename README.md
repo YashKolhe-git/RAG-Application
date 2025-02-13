@@ -1,7 +1,7 @@
 RAG-Based Conversational AI with Memory using Streamlit & LangChain
 
 <br>
-📌 Overview
+📌 Overviewhttps://github.com/YashKolhe-git/RAG-Application/blob/main/README.md
 This project implements a Retrieval-Augmented Generation (RAG) Conversational AI system using LangChain, Streamlit, and Groq API (LLM). It enhances chatbot capabilities by retrieving relevant documents and maintaining contextual memory across interactions.
 
 <br>
@@ -34,5 +34,13 @@ Vector Store: FAISS / ChromaDB (for document retrieval)
 <br>
 Memory Management: BaseChatMessageHistory
 <br>
+
+Create a new environment of you PC my downloading the above git hub file
+<br>
+terminal -> cmd -> conda create -p environment_name -y  -> conda activate environment_example/
+
+<br>
+
+download the requirements.txt -> pip install -r requirements.txt
 
 
