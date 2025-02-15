@@ -35,7 +35,7 @@ Vector Store: FAISS / ChromaDB (for document retrieval)
 Memory Management: BaseChatMessageHistory
 <br>
 
-Create a new environment of your PC after downloading the above file
+Create a new environment in your PC after downloading the above file
 <br>
 
 terminal -> cmd -> conda create -p environment_name -y  -> conda activate environment_example/
