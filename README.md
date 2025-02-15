@@ -38,7 +38,7 @@ Memory Management: BaseChatMessageHistory
 Create a new environment in your PC after downloading the above file
 <br>
 
-terminal -> cmd -> conda create -p environment_name -y  -> conda activate environment_example/
+terminal -> cmd -> conda create -p environment_name -y  -> conda activate environment_name/
 
 <br>
 
