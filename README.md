@@ -1,7 +1,7 @@
 RAG-Based Conversational AI with Memory using Streamlit & LangChain
 
 <br>
-📌 Overviewhttps://github.com/YashKolhe-git/RAG-Application/blob/main/README.md
+
 This project implements a Retrieval-Augmented Generation (RAG) Conversational AI system using LangChain, Streamlit, and Groq API (LLM). It enhances chatbot capabilities by retrieving relevant documents and maintaining contextual memory across interactions.
 
 <br>
